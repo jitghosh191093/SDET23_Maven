@@ -7,6 +7,7 @@ public class Test1 {
 	
 	public void assignment1() {
 		System.out.println("Test1 for profiling");
+		System.out.println("Test10 for profiling");
 	}
 
 }
